@@ -1,9 +1,9 @@
 body {
-  background: #eeeeee;
+  background: yellow; 
   font-family: "Lustria", "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
   font-size: 14px;
   line-height: 18px;
-  color: #222222;
+  color: blue;
 }
 a {
   color: #2f84c2;
