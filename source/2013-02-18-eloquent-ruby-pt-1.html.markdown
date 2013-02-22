@@ -5,5 +5,7 @@ tags:
 ---
 #What’s something that really "clicked" for you? Why/how? (Ex: Symbols, Dynamic Typing, et)
 
+READMORE
+
 Control structures! Russ Olsen's writing made it easier for me to understand 'case statements' and while. Also, I think completing the Pragmatic Programmer before reading Eloquent Ruby helped me tremednously. 
 

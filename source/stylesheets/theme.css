@@ -1,5 +1,5 @@
 body {
-  background: yellow; 
+  background: url('http://www.hdwallpaperstock.eu/walls/new_york_skyline-wide.jpg'); 
   font-family: "Lustria", "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
   font-size: 14px;
   line-height: 18px;
@@ -26,6 +26,12 @@ h1 {
 }
 h2 {
   font-size: 2.5em;
+}
+h2#heading{
+  text-align: center;
+}
+h2#heading a {
+  color: white;
 }
 h3 {
   font-size: 2em;
@@ -76,10 +82,18 @@ a.logo:hover {
   border-top: 4px solid #ededed;
 }
 div.panel {
-  background: #efefef;
-  background: -moz-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e5e5e5), color-stop(100%, #dedede));
-  background: -o-linear-gradient(top, #e5e5e5 0%, #dedede 100%);
+  background: none;
+  border: none;
+  text-align: center;
+}
+.panel h1,
+.panel h3 span {
+ color: white;
+ text-align: center;
+ display: none;
+}
+.panel h3 span{
+  display: block;
 }
 .blue.button {
   background-color: #2f84c2;
@@ -231,6 +245,7 @@ div.alert-box {
   margin-bottom: 1.7em;
 }
 .post p {
+  d
   font-size: 15px;
   line-height: 23px;
 }
@@ -248,4 +263,26 @@ footer.row {
   margin-top: 7em;
   border-top: solid 1px #DDD;
   padding: 4em 0px;
+  display: none;
+}
+#articles {
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
+  background: rgba(0,0,0,0.5);
+  text-align: center;
+
+}
+article h1,
+#articles h2{
+color: white;
+
+}
+article p{
+color: white;
+font-size: 18px;
+}
+.articles-container{
+  margin: 30px;
+  padding-top: 40px;
 }
