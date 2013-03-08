@@ -1,0 +1,23 @@
+---
+title: Week 6
+date: 2013-03-08 09:11 -07:00
+tags:
+---
+
+#TrafficSpy
+
+#Another project in the books. How did you feel about your contribution to your team’s project?
+
+I felt good about Traffic Spy project. In our group, we were able to try different styles in coding. We created a pace that allowed us to write codes for x amount of hours giving us time to sleep and wake up with fresh energy to keep coding. At the end, we were able to deliver a completed project with 95% test coverage. 
+
+#Obama for America Event
+
+#Would you go all-in, 12 hour days seven days a week, for politics?
+
+Absolutely! If the goal is to make a positve change, I'm willing to sacrifice my hours in the days. How does the saying goes..."Sleep when you're dead?"
+
+#Big Picture
+
+#We need to start contributing to open source projects. Do you have your eye on any projects that need a little help?
+
+I would like to contribute to open source...but I think the area I would feel comfortable to do so would be in content editing....
